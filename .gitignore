@@ -15,9 +15,6 @@ __pycache__/
 *.code-workspace
 
 # 模範解答ファイルとその他ファイル
-step1_adversarial_attack_sol.py
-step2_adversarial_detector_sol.py
-step3_secure_auth_sol.py
-step4_integrated_eval_sol.py
+*_sol.py
 Instructor_memo.md
 *.json
