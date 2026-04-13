@@ -1,0 +1,23 @@
+# Python 仮想環境
+.venv/
+venv/
+env/
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# OS 固有のファイル (Mac)
+.DS_Store
+
+# エディタ設定 (VS Code など)
+.vscode/
+*.code-workspace
+
+# 模範解答ファイルとその他ファイル
+step1_adversarial_attack_sol.py
+step2_adversarial_detector_sol.py
+step3_secure_auth_sol.py
+step4_integrated_eval_sol.py
+Instructor_memo.md
+*.json
